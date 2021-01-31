@@ -355,6 +355,16 @@ Source: https://github.com/SuperTux/supertux
 
 ------------------------------------------------------------------------
 
+images/objects/birdetta.png
+
+Author: YoshiBro. <https://mfgg.net/index.php?act=user&param=01&uid=6313>
+License:
+  Proprietary; can be used in games so long as YoshiBro. is listed in
+  the credits, according to the text on the sprite sheet.
+Source: https://mfgg.net/index.php?act=resdb&param=02&c=1&id=16393
+
+------------------------------------------------------------------------
+
 images/objects/tux/tux_arms_run-0.png
 images/objects/tux/tux_arms_run-1.png
 images/objects/tux/tux_arms_run-2.png
@@ -414,6 +424,14 @@ Details:
   Made from frame 11 of the run animation placed on top of some vector
   graphics made in Inkscape. icon-is.svg is the Inkscape source. The
   rest of the files are simply rendered from that.
+
+------------------------------------------------------------------------
+
+images/tiles/tiles.png
+
+Author: hdst <https://opengameart.org/users/hdst>
+License: CC0 <http://creativecommons.org/publicdomain/zero/1.0/>
+Source: https://opengameart.org/content/platformer-pack-16x16
 
 ------------------------------------------------------------------------
 
