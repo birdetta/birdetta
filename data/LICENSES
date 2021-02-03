@@ -355,13 +355,29 @@ Source: https://github.com/SuperTux/supertux
 
 ------------------------------------------------------------------------
 
-images/objects/birdetta.png
+images/objects/birdetta/death.png
+images/objects/birdetta/eat-strip4.png
+images/objects/birdetta/egg.png
+images/objects/birdetta/egg_shard_bottom.png
+images/objects/birdetta/egg_shard_right.png
+images/objects/birdetta/egg_shard_top.png
+images/objects/birdetta/fall.png
+images/objects/birdetta/inhale_start.png
+images/objects/birdetta/inhale-strip2.png
+images/objects/birdetta/jump.png
+images/objects/birdetta/run-strip3.png
+images/objects/birdetta/skid.png
+images/objects/birdetta/spit-strip5.png
+images/objects/birdetta/stand.png
+images/objects/birdetta/suction-strip4.png
+images/objects/birdetta/walk-strip8.png
 
 Author: YoshiBro. <https://mfgg.net/index.php?act=user&param=01&uid=6313>
 License:
   Proprietary; can be used in games so long as YoshiBro. is listed in
   the credits, according to the text on the sprite sheet.
 Source: https://mfgg.net/index.php?act=resdb&param=02&c=1&id=16393
+Notes: Edited slightly to tweak colors and animation.
 
 ------------------------------------------------------------------------
 
